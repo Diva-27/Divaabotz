@@ -1,0 +1,18 @@
+{
+    "ownerNumber": ["628895585970@s.whatsapp.net"],
+    "ownerName": ["Divaa Cnci"],
+    "botName": "Divaabotz",
+    "instagram": "divaaynx",
+    "mygc": "https://chat.whatsapp.com/GmDdLgdRL6yH1nBJiVPO5X",
+    "footer": "© Bot Divaa WhatsApp",
+    "no_ewallet": "08895585970",
+    "sessionName": "session",
+    "pathimg": "./media/x-none.jpg",
+    "qrisimg": "./media/qris.jpg",
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 35,
+        "user": 15
+    }
+}
